@@ -36,7 +36,7 @@ Here are some of my highlighted projects:
 - [SQL Sales Analysis Project](https://github.com/akeemwilson/SQL-Sales-Analysis)  
   *Analyzed sales data using SQL queries and aggregation.*
 
-- [Tableau Regional Sales Dashboard](https://github.com/akeemwilson/Tableau-RegionalSalesDashboard)  
+- [Tableau Regional Sales Dashboard](https://github.com/akeemwilson/Tableau_RegionalSalesDashboard)  
   *Built an interactive dashboard showing regional sales performance.*
 
 - [Power BI Executive KPI Dashboard](https://github.com/akeemwilson/PowerBI-ExecutiveKPIDashboard)  
