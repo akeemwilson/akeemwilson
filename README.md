@@ -45,7 +45,7 @@ Here are some of my highlighted projects:
 ---
 
 ## 🌍 Let's Connect
-- [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-url/)
+- [LinkedIn https://www.linkedin.com/in/akeem-wilson-421001a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [GitHub Portfolio](https://github.com/akeemwilson)
 
 --- 
